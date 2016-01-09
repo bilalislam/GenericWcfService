@@ -1,0 +1,5 @@
+C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\WcfServiceCommon\bin\Debug\WcfServiceCommon.dll
+C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\WcfServiceCommon\bin\Debug\WcfServiceCommon.pdb
+C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\WcfServiceCommon\obj\Debug\WcfServiceCommon.csprojResolveAssemblyReference.cache
+C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\WcfServiceCommon\obj\Debug\WcfServiceCommon.dll
+C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\WcfServiceCommon\obj\Debug\WcfServiceCommon.pdb

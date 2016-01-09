@@ -1,0 +1,7 @@
+C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\Test2Common\bin\Debug\Test2Common.dll
+C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\Test2Common\bin\Debug\Test2Common.pdb
+C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\Test2Common\bin\Debug\WcfServiceCommon.dll
+C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\Test2Common\bin\Debug\WcfServiceCommon.pdb
+C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\Test2Common\obj\Debug\Test2Common.csprojResolveAssemblyReference.cache
+C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\Test2Common\obj\Debug\Test2Common.dll
+C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\Test2Common\obj\Debug\Test2Common.pdb
