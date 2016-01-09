@@ -3,3 +3,8 @@ C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\WcfServiceCommon\bin\
 C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\WcfServiceCommon\obj\Debug\WcfServiceCommon.csprojResolveAssemblyReference.cache
 C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\WcfServiceCommon\obj\Debug\WcfServiceCommon.dll
 C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\WcfServiceCommon\obj\Debug\WcfServiceCommon.pdb
+C:\Users\Bilal Islam\Documents\GenericWcfService\WcfServiceCommon\bin\Debug\WcfServiceCommon.dll
+C:\Users\Bilal Islam\Documents\GenericWcfService\WcfServiceCommon\bin\Debug\WcfServiceCommon.pdb
+C:\Users\Bilal Islam\Documents\GenericWcfService\WcfServiceCommon\obj\Debug\WcfServiceCommon.csprojResolveAssemblyReference.cache
+C:\Users\Bilal Islam\Documents\GenericWcfService\WcfServiceCommon\obj\Debug\WcfServiceCommon.dll
+C:\Users\Bilal Islam\Documents\GenericWcfService\WcfServiceCommon\obj\Debug\WcfServiceCommon.pdb

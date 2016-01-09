@@ -1,0 +1,9 @@
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Service\bin\Debug\Test1Service.dll
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Service\bin\Debug\Test1Service.pdb
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Service\bin\Debug\Test1Common.dll
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Service\bin\Debug\WcfServiceCommon.dll
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Service\bin\Debug\Test1Common.pdb
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Service\bin\Debug\WcfServiceCommon.pdb
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Service\obj\Debug\Test1Service.csprojResolveAssemblyReference.cache
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Service\obj\Debug\Test1Service.dll
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Service\obj\Debug\Test1Service.pdb

@@ -4,3 +4,10 @@ C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\Test1Common\bin\Debug
 C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\Test1Common\bin\Debug\WcfServiceCommon.pdb
 C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\Test1Common\obj\Debug\Test1Common.dll
 C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\Test1Common\obj\Debug\Test1Common.pdb
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Common\bin\Debug\Test1Common.dll
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Common\bin\Debug\Test1Common.pdb
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Common\bin\Debug\WcfServiceCommon.dll
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Common\bin\Debug\WcfServiceCommon.pdb
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Common\obj\Debug\Test1Common.csprojResolveAssemblyReference.cache
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Common\obj\Debug\Test1Common.dll
+C:\Users\Bilal Islam\Documents\GenericWcfService\Test1Common\obj\Debug\Test1Common.pdb

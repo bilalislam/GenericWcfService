@@ -6,3 +6,11 @@ C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\WcfServiceHost\bin\De
 C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\WcfServiceHost\obj\Debug\WcfServiceHost.csprojResolveAssemblyReference.cache
 C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\WcfServiceHost\obj\Debug\WcfServiceHost.exe
 C:\Users\tmob\Downloads\GenericWcfServiceHostAndClient_src\WcfServiceHost\obj\Debug\WcfServiceHost.pdb
+C:\Users\Bilal Islam\Documents\GenericWcfService\WcfServiceHost\bin\Debug\WcfServiceHost.exe.config
+C:\Users\Bilal Islam\Documents\GenericWcfService\WcfServiceHost\bin\Debug\WcfServiceHost.exe
+C:\Users\Bilal Islam\Documents\GenericWcfService\WcfServiceHost\bin\Debug\WcfServiceHost.pdb
+C:\Users\Bilal Islam\Documents\GenericWcfService\WcfServiceHost\bin\Debug\WcfServiceCommon.dll
+C:\Users\Bilal Islam\Documents\GenericWcfService\WcfServiceHost\bin\Debug\WcfServiceCommon.pdb
+C:\Users\Bilal Islam\Documents\GenericWcfService\WcfServiceHost\obj\Debug\WcfServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Bilal Islam\Documents\GenericWcfService\WcfServiceHost\obj\Debug\WcfServiceHost.exe
+C:\Users\Bilal Islam\Documents\GenericWcfService\WcfServiceHost\obj\Debug\WcfServiceHost.pdb
