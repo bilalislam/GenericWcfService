@@ -21,7 +21,7 @@ namespace WcfServiceCommon
 
                 WcfServiceClient<TClient> client = new WcfServiceClient<TClient>(tcpBinding, endpointAddress);
                 return client;
-            }
+            }zx
             throw new Exception(clientType.AssemblyQualifiedName);
         }
 
