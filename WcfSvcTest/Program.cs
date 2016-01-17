@@ -41,7 +41,7 @@ namespace WcfSvcTest
 				}
 			}
 
-			Console.ReadLine();
+			    Console.ReadLine();
 		}
 	}
 }
